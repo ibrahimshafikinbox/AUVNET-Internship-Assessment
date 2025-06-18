@@ -30,6 +30,8 @@ A streamlined and responsive Flutter-based e-commerce application built using Cl
 cd auvnet-internship-assessment
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+ video Link >>>>>>>>>>>>>>>>>>> https://drive.google.com/file/d/1kWFb9N3BKrPYqKgAuGak2j35xpyH-hPy/view?usp=sharing
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Install dependencies:
 
  flutter pub get
