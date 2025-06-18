@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610916686048",
+    "project_id": "auvnet-a17f3",
+    "storage_bucket": "auvnet-a17f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610916686048:android:9bf1b45e193411265c5885",
+        "android_client_info": {
+          "package_name": "com.example.auvnet_flutter_internship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5sj5va-wENoywkNEviYqes3_dLARksBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
